@@ -1,0 +1,5 @@
+ProductCode=3
+MoneyIn=7
+Dispense=1
+Change=2
+OutOfStock=0
